@@ -9,9 +9,7 @@ I made a chat bot about EAST.  It tells what we did this year
 and what stuff we use in class.
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
