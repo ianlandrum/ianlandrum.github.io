@@ -8,7 +8,7 @@ The program was made by Facebook.  I have been working on it and it is really fu
 I made a chat bot about EAST.  It tells what we did this year 
 and what stuff we use in class.
 
-[Link](url) and ![Image](src)
+[ChatBot](https://www.messenger.com/t/1681532978531920)
 
 
 ### Jekyll Themes
