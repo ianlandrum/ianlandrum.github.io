@@ -1,13 +1,12 @@
 - ## Techstart Portfolio
 
-You can use the [editor on GitHub](https://github.com/ianlandrum/ianlandrum.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here is all of my projects that i did from the program Techstart.
+The program was made by Facebook.  I have been working on it and it is really fun.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**1. ### ChatBot**
 
-### ChatBot
-I made a chat bot about EAST.  It tells what we did this year and what stuff we use in class.
-
-**Bold** and _Italic_ and `Code` text
+I made a chat bot about EAST.  It tells what we did this year 
+and what stuff we use in class.
 
 [Link](url) and ![Image](src)
 ```
