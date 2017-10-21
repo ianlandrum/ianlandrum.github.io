@@ -2,7 +2,7 @@
 
 Here is all of my projects that i did from the program Techstart.
 The program was made by Facebook.  I have been working on it and 
-it is really fun.
+it is really fun!
 
 
 
@@ -32,3 +32,20 @@ and what stuff we use in class.
 
 
 
+
+
+
+- ## Other East Projects
+
+All other projects i have done in EAST!
+
+
+
+
+
+
+
+
+- ## Makerspace Projects
+
+All Makerspace Projects i have done!
