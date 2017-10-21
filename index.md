@@ -13,7 +13,8 @@ I made a chat bot about EAST.  It tells what we did this year
 and what stuff we use in class.
 
 [ChatBot](https://www.messenger.com/t/1681532978531920)
-![ChatBot Messaging Me](Screen Shot 2017-10-21 at 11.41.39 AM?raw=true "Optional Title")
+![Chat Bot](Portfolio/Screen Shot 2017-10-21 at 11.41.39 AM?raw=true "Optional Title")
+
 
 
 ### 2. **React VR**
