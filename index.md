@@ -3,7 +3,7 @@
 Here is all of my projects that i did from the program Techstart.
 The program was made by Facebook.  I have been working on it and it is really fun.
 
-**1. ### ChatBot**
+### 1. **ChatBot**
 
 I made a chat bot about EAST.  It tells what we did this year 
 and what stuff we use in class.
